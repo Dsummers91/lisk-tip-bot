@@ -1,0 +1,6 @@
+environment/
+.postgresdb
+
+node/node_modules
+lisktip-client/node_modules
+node_modules
